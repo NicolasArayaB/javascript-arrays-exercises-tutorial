@@ -321,7 +321,7 @@
         {
             "slug": "15-Max-integer-from-array",
             "title": "15-Max-integer-from-array",
-            "done": false,
+            "done": true,
             "path": "exercises/15-Max-integer-from-array",
             "translations": [
                 "es",
@@ -332,7 +332,7 @@
         {
             "slug": "16-Foreach-min-val",
             "title": "16-Foreach-min-val",
-            "done": false,
+            "done": true,
             "path": "exercises/16-Foreach-min-val",
             "translations": [
                 "es",
@@ -343,7 +343,7 @@
         {
             "slug": "17-The-for-loop",
             "title": "17-The-for-loop",
-            "done": false,
+            "done": true,
             "path": "exercises/17-The-for-loop",
             "translations": [
                 "es",
@@ -354,7 +354,7 @@
         {
             "slug": "18-Nested-arrays",
             "title": "18-Nested-arrays",
-            "done": false,
+            "done": true,
             "path": "exercises/18-Nested-arrays",
             "translations": [
                 "es",
@@ -365,7 +365,7 @@
         {
             "slug": "19-And-One-and-a-Two-and-a-Three",
             "title": "19-And-One-and-a-Two-and-a-Three",
-            "done": false,
+            "done": true,
             "path": "exercises/19-And-One-and-a-Two-and-a-Three",
             "translations": [
                 "es",
@@ -376,7 +376,7 @@
         {
             "slug": "20.1-Map-an-array",
             "title": "20.1-Map-an-array",
-            "done": false,
+            "done": true,
             "path": "exercises/20.1-Map-an-array",
             "translations": [
                 "es",
@@ -387,7 +387,7 @@
         {
             "slug": "20.2-More-mapping",
             "title": "20.2-More-mapping",
-            "done": false,
+            "done": true,
             "path": "exercises/20.2-More-mapping",
             "translations": [
                 "es",
@@ -398,7 +398,7 @@
         {
             "slug": "20.3-Map-with-function-inside-variable",
             "title": "20.3-Map-with-function-inside-variable",
-            "done": false,
+            "done": true,
             "path": "exercises/20.3-Map-with-function-inside-variable",
             "translations": [
                 "es",
@@ -409,7 +409,7 @@
         {
             "slug": "20.4-Map-data-types",
             "title": "20.4-Map-data-types",
-            "done": false,
+            "done": true,
             "path": "exercises/20.4-Map-data-types",
             "translations": [
                 "es",
@@ -420,7 +420,7 @@
         {
             "slug": "20.5-Map-arrays-of-objects",
             "title": "20.5-Map-arrays-of-objects",
-            "done": false,
+            "done": true,
             "path": "exercises/20.5-Map-arrays-of-objects",
             "translations": [
                 "es",
@@ -431,7 +431,7 @@
         {
             "slug": "20.6-Yes-and-no",
             "title": "20.6-Yes-and-no",
-            "done": false,
+            "done": true,
             "path": "exercises/20.6-Yes-and-no",
             "translations": [
                 "es",
@@ -442,7 +442,7 @@
         {
             "slug": "21.2-Filter-done-tasks",
             "title": "21.2-Filter-done-tasks",
-            "done": false,
+            "done": true,
             "path": "exercises/21.2-Filter-done-tasks",
             "translations": [
                 "es",
