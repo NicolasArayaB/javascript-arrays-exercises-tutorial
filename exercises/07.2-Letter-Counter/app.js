@@ -2,5 +2,10 @@ let par = "Lorem ipsum dolor sit amet consectetur adipiscing elit Curabitur eget
 let counts = {};
 
 // your code here
+for (let char of par.replace(/ /g, ""))
+    if (char.toLowerCase() in counts)
+        counts[char.toLowerCase()] += 1;
+    else
+        counts[char.toLowerCase()] = 1;
 
 console.log(counts);
