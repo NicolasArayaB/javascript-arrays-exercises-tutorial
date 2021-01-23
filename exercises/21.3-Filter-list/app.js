@@ -2,7 +2,12 @@ let names = ['Liam','Emma','Noah','Olivia','William','Ava','James','Isabella','L
 
 //declare your function here
 function filterByName(arr, filter) {
-    
+    let filtered = []
+    arr.filter((name) => {
+        if (name.includes(filter))
+            filtered.push(name);
+    })
+    return filtered;
 }
 
 console.log(filterByName(names, 'am'));

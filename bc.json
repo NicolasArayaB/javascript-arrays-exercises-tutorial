@@ -453,7 +453,7 @@
         {
             "slug": "21.3-Filter-list",
             "title": "21.3-Filter-list",
-            "done": false,
+            "done": true,
             "path": "exercises/21.3-Filter-list",
             "translations": [
                 "es",
@@ -464,7 +464,7 @@
         {
             "slug": "22-Matrix-Builder",
             "title": "22-Matrix-Builder",
-            "done": false,
+            "done": true,
             "path": "exercises/22-Matrix-Builder",
             "translations": [
                 "es",
@@ -475,7 +475,7 @@
         {
             "slug": "23-Parking-Lot",
             "title": "23-Parking-Lot",
-            "done": false,
+            "done": true,
             "path": "exercises/23-Parking-Lot",
             "translations": [
                 "es",
@@ -486,7 +486,7 @@
         {
             "slug": "24-Making-a-ul",
             "title": "24-Making-a-ul",
-            "done": false,
+            "done": true,
             "path": "exercises/24-Making-a-ul",
             "translations": [
                 "es",
@@ -497,7 +497,7 @@
         {
             "slug": "25-Techno-beat",
             "title": "25-Techno-beat",
-            "done": false,
+            "done": true,
             "path": "exercises/25-Techno-beat",
             "translations": [
                 "es",
